@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLQ14", "SLQs Part 2\SLQ14.csproj", "{BBE0E836-1240-42D2-BB5C-766EA9AF66AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLQ15", "SLQ15\SLQ15.csproj", "{F5278096-84E8-45E6-B6F0-3125ADE4862C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBE0E836-1240-42D2-BB5C-766EA9AF66AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE0E836-1240-42D2-BB5C-766EA9AF66AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE0E836-1240-42D2-BB5C-766EA9AF66AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE0E836-1240-42D2-BB5C-766EA9AF66AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5278096-84E8-45E6-B6F0-3125ADE4862C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5278096-84E8-45E6-B6F0-3125ADE4862C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5278096-84E8-45E6-B6F0-3125ADE4862C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5278096-84E8-45E6-B6F0-3125ADE4862C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A391F11F-E491-43BB-B304-5A10B4E1FB61}
+	EndGlobalSection
+EndGlobal
